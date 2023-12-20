@@ -1,4 +1,4 @@
-CASM VERSION 1.1 BETA
+CASM VERSION 1.2 BETA
 
 WARNING: This software is under no warranty for damages. Use at your own risk!
 
